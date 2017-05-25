@@ -1,0 +1,950 @@
+{
+    "JoeyYapDoc": {
+        "DocHead": {
+            "MerchantId": "JOEYYAP",
+            "Charset": "UTF-8",
+            "Language": "zh-Hant",
+            "ContentType": "Web",
+            "ItemCode": "item002",
+            "RequestData": {
+                "ReturnType": "JSON",
+                "iSex": "1",
+                "iYear": "1950",
+                "iMonth": "4",
+                "iDay": "10",
+                "iHour": "16",
+                "iCalendar": "1",
+                "LeapMonth": "0",
+                "iGetYear": "1951",
+                "iGetMonth": "7",
+                "iGetDay": "13",
+                "iGetHour": "18",
+                "iHourFlag": "1",
+                "iFlowType": "0",
+                "iDebug": "1"
+            },
+            "ReturnCode": {
+                "ErrorNo": "E000",
+                "ErrorDesc": "No Error"
+            }
+        },
+        "DocContent": {
+            "DebugInfo": {
+                "BirthLunarDateExt": "庚寅(1950)年己卯(2)月乙亥(24)日甲申(16)時",
+                "FlowLunarDateExt": "辛卯(1951)年乙未(6)月甲寅(10)日癸酉(18)時",
+                "FlowSolarDateExt": "西元1951年7月13日18時",
+                "GetYear": "1951",
+                "GetMonth": "7",
+                "GetDay": "13",
+                "GetHour": "18",
+                "OrgGetYear": "1951",
+                "OrgGetMonth": "7",
+                "OrgGetDay": "13",
+                "OrgGetHour": "18",
+                "BigLimitOrder": "1",
+                "SmallLimitMaxAge": "84",
+                "SmallLimitMinAge": "1",
+                "SmallLimitAge": "2"
+            },
+            "BasicInfo": {
+                "BirthYear": {
+                    "Value": "1950",
+                    "KanID": "6",
+                    "ChihID": "2"
+                },
+                "BirthMonth": {
+                    "Value": "2",
+                    "KanID": "5",
+                    "ChihID": "3"
+                },
+                "BirthDay": {
+                    "Value": "24",
+                    "KanID": "1",
+                    "ChihID": "11"
+                },
+                "BirthHour": {
+                    "Value": "16",
+                    "KanID": "0",
+                    "ChihID": "8"
+                },
+                "FlowYear": {
+                    "Value": "1951",
+                    "KanID": "7",
+                    "ChihID": "3"
+                },
+                "FlowMonth": {
+                    "Value": "6",
+                    "KanID": "1",
+                    "ChihID": "7"
+                },
+                "FlowDay": {
+                    "Value": "10",
+                    "KanID": "0",
+                    "ChihID": "2"
+                },
+                "FlowHour": {
+                    "Value": "18",
+                    "KanID": "9",
+                    "ChihID": "9"
+                }
+            },
+            "BigLimitedFlow": {
+                "Star21": {
+                    "StarID": "21",
+                    "StarName": "文曲",
+                    "KounChih": "11"
+                },
+                "Star22": {
+                    "StarID": "22",
+                    "StarName": "文昌",
+                    "KounChih": "3"
+                },
+                "Star23": {
+                    "StarID": "23",
+                    "StarName": "紅鸞",
+                    "KounChih": "8"
+                },
+                "Star24": {
+                    "StarID": "24",
+                    "StarName": "天喜",
+                    "KounChih": "2"
+                },
+                "Star25": {
+                    "StarID": "25",
+                    "StarName": "天馬",
+                    "KounChih": "5"
+                },
+                "Star30": {
+                    "StarID": "30",
+                    "StarName": "祿存",
+                    "KounChih": "0"
+                },
+                "Star31": {
+                    "StarID": "31",
+                    "StarName": "擎羊",
+                    "KounChih": "1"
+                },
+                "Star32": {
+                    "StarID": "32",
+                    "StarName": "陀羅",
+                    "KounChih": "11"
+                },
+                "Star33": {
+                    "StarID": "33",
+                    "StarName": "天魁",
+                    "KounChih": "3"
+                },
+                "Star34": {
+                    "StarID": "34",
+                    "StarName": "天鉞",
+                    "KounChih": "5"
+                },
+                "Hwa35": {
+                    "StarID": "13",
+                    "StarName": "破軍",
+                    "HwaName": "化祿",
+                    "KounChih": "5"
+                },
+                "Hwa36": {
+                    "StarID": "9",
+                    "StarName": "巨門",
+                    "HwaName": "化權",
+                    "KounChih": "10"
+                },
+                "Hwa37": {
+                    "StarID": "7",
+                    "StarName": "太陰",
+                    "HwaName": "化科",
+                    "KounChih": "8"
+                },
+                "Hwa38": {
+                    "StarID": "8",
+                    "StarName": "貪狼",
+                    "HwaName": "化忌",
+                    "KounChih": "9"
+                },
+                "Koun0": {
+                    "KounID": "0",
+                    "KounName": "命宮",
+                    "KounChih": "7"
+                },
+                "Koun1": {
+                    "KounID": "1",
+                    "KounName": "父母",
+                    "KounChih": "8"
+                },
+                "Koun2": {
+                    "KounID": "2",
+                    "KounName": "福德",
+                    "KounChih": "9"
+                },
+                "Koun3": {
+                    "KounID": "3",
+                    "KounName": "田宅",
+                    "KounChih": "10"
+                },
+                "Koun4": {
+                    "KounID": "4",
+                    "KounName": "事業",
+                    "KounChih": "11"
+                },
+                "Koun5": {
+                    "KounID": "5",
+                    "KounName": "部屬",
+                    "KounChih": "0"
+                },
+                "Koun6": {
+                    "KounID": "6",
+                    "KounName": "遷移",
+                    "KounChih": "1"
+                },
+                "Koun7": {
+                    "KounID": "7",
+                    "KounName": "疾厄",
+                    "KounChih": "2"
+                },
+                "Koun8": {
+                    "KounID": "8",
+                    "KounName": "財帛",
+                    "KounChih": "3"
+                },
+                "Koun9": {
+                    "KounID": "9",
+                    "KounName": "子女",
+                    "KounChih": "4"
+                },
+                "Koun10": {
+                    "KounID": "10",
+                    "KounName": "夫妻",
+                    "KounChih": "5"
+                },
+                "Koun11": {
+                    "KounID": "11",
+                    "KounName": "兄弟",
+                    "KounChih": "6"
+                },
+                "AgeRange": "3-12",
+                "DateRange": "1952/3/19 - 1962/03/28",
+                "Order": "1",
+                "KounKan": "9",
+                "KounChih": "7"
+            },
+            "SmallLimitedFlow": {
+                "Star21": {
+                    "StarID": "21",
+                    "StarName": "文曲",
+                    "KounChih": "2"
+                },
+                "Star22": {
+                    "StarID": "22",
+                    "StarName": "文昌",
+                    "KounChih": "0"
+                },
+                "Star23": {
+                    "StarID": "23",
+                    "StarName": "紅鸞",
+                    "KounChih": "0"
+                },
+                "Star24": {
+                    "StarID": "24",
+                    "StarName": "天喜",
+                    "KounChih": "6"
+                },
+                "Star25": {
+                    "StarID": "25",
+                    "StarName": "天馬",
+                    "KounChih": "5"
+                },
+                "Star30": {
+                    "StarID": "30",
+                    "StarName": "祿存",
+                    "KounChih": "9"
+                },
+                "Star31": {
+                    "StarID": "31",
+                    "StarName": "擎羊",
+                    "KounChih": "10"
+                },
+                "Star32": {
+                    "StarID": "32",
+                    "StarName": "陀羅",
+                    "KounChih": "8"
+                },
+                "Star33": {
+                    "StarID": "33",
+                    "StarName": "天魁",
+                    "KounChih": "6"
+                },
+                "Star34": {
+                    "StarID": "34",
+                    "StarName": "天鉞",
+                    "KounChih": "2"
+                },
+                "Hwa35": {
+                    "StarID": "9",
+                    "StarName": "巨門",
+                    "HwaName": "化祿",
+                    "KounChih": "10"
+                },
+                "Hwa36": {
+                    "StarID": "2",
+                    "StarName": "太陽",
+                    "HwaName": "化權",
+                    "KounChih": "6"
+                },
+                "Hwa37": {
+                    "StarID": "21",
+                    "StarName": "文曲",
+                    "HwaName": "化科",
+                    "KounChih": "0"
+                },
+                "Hwa38": {
+                    "StarID": "22",
+                    "StarName": "文昌",
+                    "HwaName": "化忌",
+                    "KounChih": "2"
+                },
+                "Koun0": {
+                    "KounID": "0",
+                    "KounName": "命宮",
+                    "KounChih": "5"
+                },
+                "Koun1": {
+                    "KounID": "1",
+                    "KounName": "父母",
+                    "KounChih": "6"
+                },
+                "Koun2": {
+                    "KounID": "2",
+                    "KounName": "福德",
+                    "KounChih": "7"
+                },
+                "Koun3": {
+                    "KounID": "3",
+                    "KounName": "田宅",
+                    "KounChih": "8"
+                },
+                "Koun4": {
+                    "KounID": "4",
+                    "KounName": "事業",
+                    "KounChih": "9"
+                },
+                "Koun5": {
+                    "KounID": "5",
+                    "KounName": "部屬",
+                    "KounChih": "10"
+                },
+                "Koun6": {
+                    "KounID": "6",
+                    "KounName": "遷移",
+                    "KounChih": "11"
+                },
+                "Koun7": {
+                    "KounID": "7",
+                    "KounName": "疾厄",
+                    "KounChih": "0"
+                },
+                "Koun8": {
+                    "KounID": "8",
+                    "KounName": "財帛",
+                    "KounChih": "1"
+                },
+                "Koun9": {
+                    "KounID": "9",
+                    "KounName": "子女",
+                    "KounChih": "2"
+                },
+                "Koun10": {
+                    "KounID": "10",
+                    "KounName": "夫妻",
+                    "KounChih": "3"
+                },
+                "Koun11": {
+                    "KounID": "11",
+                    "KounName": "兄弟",
+                    "KounChih": "4"
+                },
+                "Age": "2",
+                "DateRange": "1951/3/31 - 1952/03/18",
+                "KounKan": "7",
+                "KounChih": "5"
+            },
+            "FlowYearFlow": {
+                "Star21": {
+                    "StarID": "21",
+                    "StarName": "文曲",
+                    "KounChih": "2"
+                },
+                "Star22": {
+                    "StarID": "22",
+                    "StarName": "文昌",
+                    "KounChih": "0"
+                },
+                "Star23": {
+                    "StarID": "23",
+                    "StarName": "紅鸞",
+                    "KounChih": "0"
+                },
+                "Star24": {
+                    "StarID": "24",
+                    "StarName": "天喜",
+                    "KounChih": "6"
+                },
+                "Star25": {
+                    "StarID": "25",
+                    "StarName": "天馬",
+                    "KounChih": "5"
+                },
+                "Star30": {
+                    "StarID": "30",
+                    "StarName": "祿存",
+                    "KounChih": "9"
+                },
+                "Star31": {
+                    "StarID": "31",
+                    "StarName": "擎羊",
+                    "KounChih": "10"
+                },
+                "Star32": {
+                    "StarID": "32",
+                    "StarName": "陀羅",
+                    "KounChih": "8"
+                },
+                "Star33": {
+                    "StarID": "33",
+                    "StarName": "天魁",
+                    "KounChih": "6"
+                },
+                "Star34": {
+                    "StarID": "34",
+                    "StarName": "天鉞",
+                    "KounChih": "2"
+                },
+                "Hwa35": {
+                    "StarID": "9",
+                    "StarName": "巨門",
+                    "HwaName": "化祿",
+                    "KounChih": "10"
+                },
+                "Hwa36": {
+                    "StarID": "2",
+                    "StarName": "太陽",
+                    "HwaName": "化權",
+                    "KounChih": "6"
+                },
+                "Hwa37": {
+                    "StarID": "21",
+                    "StarName": "文曲",
+                    "HwaName": "化科",
+                    "KounChih": "0"
+                },
+                "Hwa38": {
+                    "StarID": "22",
+                    "StarName": "文昌",
+                    "HwaName": "化忌",
+                    "KounChih": "2"
+                },
+                "Koun0": {
+                    "KounID": "0",
+                    "KounName": "命宮",
+                    "KounChih": "3"
+                },
+                "Koun1": {
+                    "KounID": "1",
+                    "KounName": "父母",
+                    "KounChih": "4"
+                },
+                "Koun2": {
+                    "KounID": "2",
+                    "KounName": "福德",
+                    "KounChih": "5"
+                },
+                "Koun3": {
+                    "KounID": "3",
+                    "KounName": "田宅",
+                    "KounChih": "6"
+                },
+                "Koun4": {
+                    "KounID": "4",
+                    "KounName": "事業",
+                    "KounChih": "7"
+                },
+                "Koun5": {
+                    "KounID": "5",
+                    "KounName": "部屬",
+                    "KounChih": "8"
+                },
+                "Koun6": {
+                    "KounID": "6",
+                    "KounName": "遷移",
+                    "KounChih": "9"
+                },
+                "Koun7": {
+                    "KounID": "7",
+                    "KounName": "疾厄",
+                    "KounChih": "10"
+                },
+                "Koun8": {
+                    "KounID": "8",
+                    "KounName": "財帛",
+                    "KounChih": "11"
+                },
+                "Koun9": {
+                    "KounID": "9",
+                    "KounName": "子女",
+                    "KounChih": "0"
+                },
+                "Koun10": {
+                    "KounID": "10",
+                    "KounName": "夫妻",
+                    "KounChih": "1"
+                },
+                "Koun11": {
+                    "KounID": "11",
+                    "KounName": "兄弟",
+                    "KounChih": "2"
+                },
+                "FlowYear": {
+                    "YearValue": "1951",
+                    "KanID": "7",
+                    "ChihID": "3"
+                },
+                "DateRange": "1951/2/6 - 1952/1/26",
+                "KounChih": "3"
+            },
+            "FlowMonthFlow": {
+                "Star21": {
+                    "StarID": "21",
+                    "StarName": "文曲",
+                    "KounChih": "8"
+                },
+                "Star22": {
+                    "StarID": "22",
+                    "StarName": "文昌",
+                    "KounChih": "6"
+                },
+                "Star23": {
+                    "StarID": "23",
+                    "StarName": "紅鸞",
+                    "KounChih": "8"
+                },
+                "Star24": {
+                    "StarID": "24",
+                    "StarName": "天喜",
+                    "KounChih": "2"
+                },
+                "Star25": {
+                    "StarID": "25",
+                    "StarName": "天馬",
+                    "KounChih": "5"
+                },
+                "Star30": {
+                    "StarID": "30",
+                    "StarName": "祿存",
+                    "KounChih": "3"
+                },
+                "Star31": {
+                    "StarID": "31",
+                    "StarName": "擎羊",
+                    "KounChih": "4"
+                },
+                "Star32": {
+                    "StarID": "32",
+                    "StarName": "陀羅",
+                    "KounChih": "2"
+                },
+                "Star33": {
+                    "StarID": "33",
+                    "StarName": "天魁",
+                    "KounChih": "0"
+                },
+                "Star34": {
+                    "StarID": "34",
+                    "StarName": "天鉞",
+                    "KounChih": "8"
+                },
+                "Hwa35": {
+                    "StarID": "1",
+                    "StarName": "天機",
+                    "HwaName": "化祿",
+                    "KounChih": "8"
+                },
+                "Hwa36": {
+                    "StarID": "11",
+                    "StarName": "天梁",
+                    "HwaName": "化權",
+                    "KounChih": "0"
+                },
+                "Hwa37": {
+                    "StarID": "0",
+                    "StarName": "紫微",
+                    "HwaName": "化科",
+                    "KounChih": "9"
+                },
+                "Hwa38": {
+                    "StarID": "7",
+                    "StarName": "太陰",
+                    "HwaName": "化忌",
+                    "KounChih": "8"
+                },
+                "Koun0": {
+                    "KounID": "0",
+                    "KounName": "命宮",
+                    "KounChih": "3"
+                },
+                "Koun1": {
+                    "KounID": "1",
+                    "KounName": "父母",
+                    "KounChih": "4"
+                },
+                "Koun2": {
+                    "KounID": "2",
+                    "KounName": "福德",
+                    "KounChih": "5"
+                },
+                "Koun3": {
+                    "KounID": "3",
+                    "KounName": "田宅",
+                    "KounChih": "6"
+                },
+                "Koun4": {
+                    "KounID": "4",
+                    "KounName": "事業",
+                    "KounChih": "7"
+                },
+                "Koun5": {
+                    "KounID": "5",
+                    "KounName": "部屬",
+                    "KounChih": "8"
+                },
+                "Koun6": {
+                    "KounID": "6",
+                    "KounName": "遷移",
+                    "KounChih": "9"
+                },
+                "Koun7": {
+                    "KounID": "7",
+                    "KounName": "疾厄",
+                    "KounChih": "10"
+                },
+                "Koun8": {
+                    "KounID": "8",
+                    "KounName": "財帛",
+                    "KounChih": "11"
+                },
+                "Koun9": {
+                    "KounID": "9",
+                    "KounName": "子女",
+                    "KounChih": "0"
+                },
+                "Koun10": {
+                    "KounID": "10",
+                    "KounName": "夫妻",
+                    "KounChih": "1"
+                },
+                "Koun11": {
+                    "KounID": "11",
+                    "KounName": "兄弟",
+                    "KounChih": "2"
+                },
+                "FlowMonth": {
+                    "YearValue": "1951",
+                    "MonthValue": "6",
+                    "KanID": "1",
+                    "ChihID": "7"
+                },
+                "DateRange": "1951/7/4 - 1951/8/2",
+                "KounChih": "7"
+            },
+            "FlowDayFlow": {
+                "Star21": {
+                    "StarID": "21",
+                    "StarName": "文曲",
+                    "KounChih": "9"
+                },
+                "Star22": {
+                    "StarID": "22",
+                    "StarName": "文昌",
+                    "KounChih": "5"
+                },
+                "Star23": {
+                    "StarID": "23",
+                    "StarName": "紅鸞",
+                    "KounChih": "1"
+                },
+                "Star24": {
+                    "StarID": "24",
+                    "StarName": "天喜",
+                    "KounChih": "7"
+                },
+                "Star25": {
+                    "StarID": "25",
+                    "StarName": "天馬",
+                    "KounChih": "8"
+                },
+                "Star30": {
+                    "StarID": "30",
+                    "StarName": "祿存",
+                    "KounChih": "2"
+                },
+                "Star31": {
+                    "StarID": "31",
+                    "StarName": "擎羊",
+                    "KounChih": "3"
+                },
+                "Star32": {
+                    "StarID": "32",
+                    "StarName": "陀羅",
+                    "KounChih": "1"
+                },
+                "Star33": {
+                    "StarID": "33",
+                    "StarName": "天魁",
+                    "KounChih": "1"
+                },
+                "Star34": {
+                    "StarID": "34",
+                    "StarName": "天鉞",
+                    "KounChih": "7"
+                },
+                "Hwa35": {
+                    "StarID": "5",
+                    "StarName": "廉貞",
+                    "HwaName": "化祿",
+                    "KounChih": "1"
+                },
+                "Hwa36": {
+                    "StarID": "13",
+                    "StarName": "破軍",
+                    "HwaName": "化權",
+                    "KounChih": "5"
+                },
+                "Hwa37": {
+                    "StarID": "3",
+                    "StarName": "武曲",
+                    "HwaName": "化科",
+                    "KounChih": "5"
+                },
+                "Hwa38": {
+                    "StarID": "2",
+                    "StarName": "太陽",
+                    "HwaName": "化忌",
+                    "KounChih": "6"
+                },
+                "Koun0": {
+                    "KounID": "0",
+                    "KounName": "命宮",
+                    "KounChih": "0"
+                },
+                "Koun1": {
+                    "KounID": "1",
+                    "KounName": "父母",
+                    "KounChih": "1"
+                },
+                "Koun2": {
+                    "KounID": "2",
+                    "KounName": "福德",
+                    "KounChih": "2"
+                },
+                "Koun3": {
+                    "KounID": "3",
+                    "KounName": "田宅",
+                    "KounChih": "3"
+                },
+                "Koun4": {
+                    "KounID": "4",
+                    "KounName": "事業",
+                    "KounChih": "4"
+                },
+                "Koun5": {
+                    "KounID": "5",
+                    "KounName": "部屬",
+                    "KounChih": "5"
+                },
+                "Koun6": {
+                    "KounID": "6",
+                    "KounName": "遷移",
+                    "KounChih": "6"
+                },
+                "Koun7": {
+                    "KounID": "7",
+                    "KounName": "疾厄",
+                    "KounChih": "7"
+                },
+                "Koun8": {
+                    "KounID": "8",
+                    "KounName": "財帛",
+                    "KounChih": "8"
+                },
+                "Koun9": {
+                    "KounID": "9",
+                    "KounName": "子女",
+                    "KounChih": "9"
+                },
+                "Koun10": {
+                    "KounID": "10",
+                    "KounName": "夫妻",
+                    "KounChih": "10"
+                },
+                "Koun11": {
+                    "KounID": "11",
+                    "KounName": "兄弟",
+                    "KounChih": "11"
+                },
+                "FlowDay": {
+                    "YearValue": "1951",
+                    "MonthValue": "6",
+                    "DayValue": "10",
+                    "KanID": "0",
+                    "ChihID": "2"
+                },
+                "KounChih": "0"
+            },
+            "FlowHourFlow": {
+                "Star21": {
+                    "StarID": "21",
+                    "StarName": "文曲",
+                    "KounChih": "11"
+                },
+                "Star22": {
+                    "StarID": "22",
+                    "StarName": "文昌",
+                    "KounChih": "3"
+                },
+                "Star23": {
+                    "StarID": "23",
+                    "StarName": "紅鸞",
+                    "KounChih": "6"
+                },
+                "Star24": {
+                    "StarID": "24",
+                    "StarName": "天喜",
+                    "KounChih": "0"
+                },
+                "Star25": {
+                    "StarID": "25",
+                    "StarName": "天馬",
+                    "KounChih": "11"
+                },
+                "Star30": {
+                    "StarID": "30",
+                    "StarName": "祿存",
+                    "KounChih": "0"
+                },
+                "Star31": {
+                    "StarID": "31",
+                    "StarName": "擎羊",
+                    "KounChih": "1"
+                },
+                "Star32": {
+                    "StarID": "32",
+                    "StarName": "陀羅",
+                    "KounChih": "11"
+                },
+                "Star33": {
+                    "StarID": "33",
+                    "StarName": "天魁",
+                    "KounChih": "3"
+                },
+                "Star34": {
+                    "StarID": "34",
+                    "StarName": "天鉞",
+                    "KounChih": "5"
+                },
+                "Hwa35": {
+                    "StarID": "13",
+                    "StarName": "破軍",
+                    "HwaName": "化祿",
+                    "KounChih": "5"
+                },
+                "Hwa36": {
+                    "StarID": "9",
+                    "StarName": "巨門",
+                    "HwaName": "化權",
+                    "KounChih": "10"
+                },
+                "Hwa37": {
+                    "StarID": "7",
+                    "StarName": "太陰",
+                    "HwaName": "化科",
+                    "KounChih": "8"
+                },
+                "Hwa38": {
+                    "StarID": "8",
+                    "StarName": "貪狼",
+                    "HwaName": "化忌",
+                    "KounChih": "9"
+                },
+                "Koun0": {
+                    "KounID": "0",
+                    "KounName": "命宮",
+                    "KounChih": "9"
+                },
+                "Koun1": {
+                    "KounID": "1",
+                    "KounName": "父母",
+                    "KounChih": "10"
+                },
+                "Koun2": {
+                    "KounID": "2",
+                    "KounName": "福德",
+                    "KounChih": "11"
+                },
+                "Koun3": {
+                    "KounID": "3",
+                    "KounName": "田宅",
+                    "KounChih": "0"
+                },
+                "Koun4": {
+                    "KounID": "4",
+                    "KounName": "事業",
+                    "KounChih": "1"
+                },
+                "Koun5": {
+                    "KounID": "5",
+                    "KounName": "部屬",
+                    "KounChih": "2"
+                },
+                "Koun6": {
+                    "KounID": "6",
+                    "KounName": "遷移",
+                    "KounChih": "3"
+                },
+                "Koun7": {
+                    "KounID": "7",
+                    "KounName": "疾厄",
+                    "KounChih": "4"
+                },
+                "Koun8": {
+                    "KounID": "8",
+                    "KounName": "財帛",
+                    "KounChih": "5"
+                },
+                "Koun9": {
+                    "KounID": "9",
+                    "KounName": "子女",
+                    "KounChih": "6"
+                },
+                "Koun10": {
+                    "KounID": "10",
+                    "KounName": "夫妻",
+                    "KounChih": "7"
+                },
+                "Koun11": {
+                    "KounID": "11",
+                    "KounName": "兄弟",
+                    "KounChih": "8"
+                },
+                "FlowHour": {
+                    "YearValue": "1951",
+                    "MonthValue": "6",
+                    "DayValue": "10",
+                    "HourValue": "18",
+                    "KanID": "9",
+                    "ChihID": "9"
+
+                }
+            }
+        }
+    }
+}
